@@ -1,0 +1,24 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  padding: 20px;
+}
+
+pre {
+  background: #fff;
+  padding: 10px;
+  display: inline-block;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+table, th, td {
+  border: 1px solid #333;
+}
+
+th, td {
+  padding: 8px 12px;
+  text-align: left;
+}
